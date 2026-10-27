@@ -1,5 +1,5 @@
 [project]
-name = "discordlogger"
+name = "discord_logging_handler"
 version = "0.1.0"
 description = "A logger handle that uses discord"
 readme = "README.md"
